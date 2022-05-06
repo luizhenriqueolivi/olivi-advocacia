@@ -15,9 +15,7 @@ a {
 }
 a:hover {
     opacity: 1;
-    background-color: white;
-    padding: 10px;
-    transition: .5s;
+    
 }
 header {
     width: 100%;
