@@ -15,6 +15,9 @@ a {
 }
 a:hover {
     opacity: 1;
+    background-color: white;
+    padding: 10px;
+    transition: .5s;
 }
 header {
     width: 100%;
@@ -171,6 +174,7 @@ H3 > img {
 }
 .inicio img {
     width: 50px;
+
 }
 .contatos {
     align-items: center;
@@ -182,7 +186,7 @@ H3 > img {
     color: goldenrod;
     margin: auto;
     text-decoration: none;
-    
+       
 }    
 .contatos > p > a > img {
     width: 30px;
